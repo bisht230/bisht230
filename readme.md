@@ -5,8 +5,8 @@
 </p>
 <br>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepanshu-bisht-661785210/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bisht2501/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepanshu-bisht-661785210/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/bisht2501/)
 
 ### Glad to see you here! 🤩 &nbsp;
 

@@ -1,14 +1,14 @@
 # Hello Github World! <img src="https://github.com/bisht230/bisht230/blob/main/assets/hello.gif" width="35"></h2>
 
 <p align="center">
-<img align="center" src="https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" width="300">
+<img align="center" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300">
 </p>
 <br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepanshu-bisht-661785210/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />](https://www.instagram.com/bisht2501/)
-[<img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/SuSpicious_07/)
-[<img src ="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/SuSpicious07)
+[<img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />](https://leetcode.com/SuSpicious_07/)
+[<img src ="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/SuSpicious07)
 
 ### Glad to see you here! 🤩 &nbsp;
 

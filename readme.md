@@ -12,7 +12,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-> I am pursuing engineering in Information Technology🎓 looking for opportunities and collabaration in projects related to web development and machine learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although a information Technology engineer working with UI tools and looking forward to Share and Gain knowledgeable stuff☘️.
+> I am pursuing engineering in Information Technology🎓 looking for opportunities and collabaration in projects related to web development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although an information technology engineer working with UI tools and looking forward to Share and Gain knowledgeable stuff☘️.
 
 ### Talking about Personal Stuffs:
 

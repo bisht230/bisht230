@@ -8,6 +8,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepanshu-bisht-661785210/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />](https://www.instagram.com/bisht2501/)
 [<img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/SuSpicious_07/)
+[<img src ="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/SuSpicious07)
 
 ### Glad to see you here! 🤩 &nbsp;
 

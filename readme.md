@@ -9,6 +9,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />](https://www.instagram.com/bisht2501/)
 [<img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />](https://leetcode.com/SuSpicious_07/)
 [<img src ="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/SuSpicious07)
+[<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat&logo=Codechef&logoColor=white" />](https://www.codechef.com/users/deepanshu009)
 
 ### Glad to see you here! 🤩 &nbsp;
 
@@ -26,7 +27,7 @@
 
 - 📝 [Resume](https://github.com/bisht230/bisht230/blob/main/assets/Deepanshu_Bisht_Resume_Updated.pdf)
 
-- 💬 Ask me about anything [here](https://github.com/bisht230/bisht230/issues/1)! I am happy to help.
+- 💬 Connect with me [here](https://www.linkedin.com/in/deepanshu-bisht-661785210/)! I am happy to help.
 
 ### Languages and Tools:
 

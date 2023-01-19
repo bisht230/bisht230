@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://github.com/bisht230">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisht230&theme=vue" />
+    <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=bisht230&theme=minimal" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bisht230&theme=vue"/>
 </a>
 </p>

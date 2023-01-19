@@ -13,7 +13,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-> I am pursuing engineering in Information Technology🎓 looking for opportunities and collabaration in projects related to web development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although an information technology engineer working with UI tools and looking forward to Share and Gain knowledgeable stuff☘️.
+> As an Information Technology engineering student, I am actively seeking opportunities for collaboration on web development projects. I am a dedicated learner who is eager to work across technologies and domains. I have a passion for exploring new technologies and using them to solve real-world problems. Additionally, I enjoy mentoring and guiding others in their learning journey. Currently, I am focused on Full Stack Web Development and honing my skills in Data Structures and Algorithms.
 
 ### Talking about Personal Stuffs:
 

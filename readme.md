@@ -21,7 +21,7 @@
 
 - 🧩 Interested in: Technology, Cricket, Web Development and DevSecOps.
 
-- 💡 Equipments: Java, C, HTML, CSS, Javascript,!
+- 💡 Equipments: Java, C, HTML, CSS, Javascript!
 
 - 📝 [Resume](https://github.com/bisht230/bisht230/blob/main/assets/Deepanshu_Bisht_Resume_Updated.pdf)
 

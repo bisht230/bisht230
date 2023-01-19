@@ -35,8 +35,8 @@
 
 <p align="center">
 <a href="https://github.com/bisht230">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bisht230&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bisht230&theme=vue-dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisht230&theme=vue" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bisht230&theme=vue"/>
 </a>
 </p>
 

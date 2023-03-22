@@ -23,7 +23,7 @@
 
 - 💡 Equipments: Java, C, HTML, CSS, Javascript!
 
-- 📝 [Resume](https://github.com/bisht230/bisht230/blob/main/assets/Deepanshu_Bisht_Resume_Updated.pdf)
+- 📝 [Resume](https://github.com/bisht230/bisht230/blob/main/assets/Deepanshu_Bisht_Resume.pdf)
 
 - 💬 Connect with me [here](https://www.linkedin.com/in/deepanshu-bisht-661785210/)! I am happy to help.
 
